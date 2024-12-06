@@ -1,0 +1,20 @@
+﻿WpfAppTrade
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\ИСП 21.1А\WpfAppTradeV2\obj\Debug\net8.0-windows\
+WpfAppTrade
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+D:\ИСП 21.1А\WpfAppTradeV2\App.xaml
+61802655678
+
+26-1686656200
+2381659813966
+MainWindow.xaml;Pages\PageAddEdit.xaml;Pages\PageAuthorisation.xaml;Pages\PageListProducts.xaml;WpfAppTradeV2\App.xaml;WpfAppTradeV2\MainWindow.xaml;
+
+False
+
